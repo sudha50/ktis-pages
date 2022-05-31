@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/def/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/tags/def/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/lorem-ipsum/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/posts/lorem-ipsum/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/posts/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/tags/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/xyz/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/tags/xyz/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sudha50.github.io/ktis-pages/categories/</loc>
   </url>
 </urlset>
